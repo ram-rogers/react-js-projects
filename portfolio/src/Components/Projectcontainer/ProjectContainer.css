@@ -1,0 +1,32 @@
+.projectcontainer img {
+  width: 350px;
+  height: 180px;
+}
+
+.projectcontainer {
+  margin: 15px;
+  width: 350px;
+  height: 180px;
+  transition: transform 100ms ease-in-out;
+}
+.projectcontainer:hover {
+  color: white;
+  background-color: var(--theme-color);
+  transform: scale(1.05);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.projectcontainer__content {
+  padding: 10px;
+}
+
+.projectcontainer__content h4 {
+  padding-bottom: 5px;
+}
+
+.projectcontainer__content p {
+  font-size: 15px;
+}

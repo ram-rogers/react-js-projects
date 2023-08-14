@@ -1,0 +1,55 @@
+.header {
+  display: flex;
+  background-color: black;
+  /* background-color: #0f172a; */
+  color: white;
+  align-items: center;
+  top: 0;
+  position: sticky;
+  z-index: 1;
+}
+.header__left > h1 {
+  text-align: center;
+  letter-spacing: 1px;
+  padding: 20px 0;
+}
+
+.header__left h1 span {
+  color: var(--theme-color);
+}
+
+.header__left {
+  flex: 0.4;
+}
+
+.header__right {
+  flex: 0.6;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.header__right a h4 {
+  font-size: 18px;
+  cursor: pointer;
+  transition: transform 200ms ease-in-out;
+}
+
+.header__right a h4:hover {
+  transform: scale(1.09);
+  color: var(--theme-color);
+  letter-spacing: 1px;
+}
+
+.header__right__button {
+  background-color: var(--theme-color);
+  color: aliceblue;
+  padding: 10px 20px;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.header__right__button:hover {
+  background-color: rgb(228, 83, 30);
+}
