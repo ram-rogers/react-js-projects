@@ -1,0 +1,27 @@
+.experiencecontainer h2 {
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.experiencecontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 200px 0;
+  color: white;
+}
+
+.experiencecontainer__info {
+  background: url("https://cdn.britannica.com/30/199930-131-B3D1D347/computer.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 80vw;
+  border-radius: 5px;
+  align-items: center;
+  margin-left: 120px;
+  display: flex;
+  justify-content: space-evenly;
+  height: 300px;
+  z-index: 1000px;
+  box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.9);
+}

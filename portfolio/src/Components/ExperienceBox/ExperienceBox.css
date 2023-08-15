@@ -1,0 +1,29 @@
+.experience {
+  display: flex;
+  flex-direction: column;
+  border: 2px dotted white;
+  border-radius: 10px;
+  width: 200px;
+  height: 150px;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  overflow: hidden;
+  color: white;
+  transition: transform 100ms ease-in-out;
+}
+
+.experience:hover {
+  color: white;
+  background-color: var(--theme-color);
+  transform: scale(1.05);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.experience p {
+  font-size: 16px;
+  letter-spacing: 1px;
+}
