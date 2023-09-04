@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 // import StarRating from './StarRating';
 import App from './App';
 import "./index.css"
-import "./responsive.css"
+// import "./responsive.css"
 
 
 // const Test = () => {
