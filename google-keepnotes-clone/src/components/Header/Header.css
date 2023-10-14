@@ -1,0 +1,21 @@
+header {
+  background-color: #f5ba13;
+  /* margin: auto -16px; */
+  padding: 8px 16px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+header h1 {
+  font-family: "MCLaren", cursive;
+  color: #ffffff;
+  font-weight: 200;
+}
+
+.header__title {
+  display: flex;
+  gap: 1;
+}
+
+.highlight__icon {
+  margin-right: 10px;
+}
