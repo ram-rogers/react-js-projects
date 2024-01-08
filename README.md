@@ -2,7 +2,7 @@
 
 I have listed some my main Projects
 
-Personal Portfolio [Click here](https://rahuram.netlify.app){:target="\_blank"}
+<!-- Personal Portfolio [Click here](https://rahuram.netlify.app) -->
 
 Personal portfolio <a href="https://rahuram.netlify.app" target="_blank">Click here</a>
 
