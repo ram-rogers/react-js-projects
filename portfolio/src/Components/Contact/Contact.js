@@ -13,13 +13,13 @@ function Contact() {
                 <p>Github : <a href="https://github.com/ram-rogers" target="__blank"><span>@ram-rogers</span></a></p>
                 <div className="contact__icons">
                     <div className="icons">
-                        <a href="https://www.linkedin.com" target="__blank">
+                        <a href="https://www.linkedin.com/in/rahuram-mb" target="__blank">
                             <FaLinkedin />
                         </a>
                     </div>
 
                     <div className="icons" >
-                        <a href="https://www.instagram.com" target="__blank">
+                        <a href="https://www.instagram.com/_ram___rogers/" target="__blank">
                             <FaInstagram />
                         </a>
                     </div>

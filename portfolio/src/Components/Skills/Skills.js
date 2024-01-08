@@ -34,6 +34,13 @@ function Skills() {
                 </div>
 
                 <div className="skillcontainer__skillset">
+                    <h5>Spring Boot</h5>
+                    <div className="skillcontainer__slider skillcontainer__slider6">
+                        <LinearProgress variant="determinate" value={60} />
+                    </div>
+                </div>
+
+                <div className="skillcontainer__skillset">
                     <h5>Python</h5>
                     <div className="skillcontainer__slider skillcontainer__slider4">
                         <LinearProgress variant="determinate" value={55} />
