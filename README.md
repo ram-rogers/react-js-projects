@@ -4,6 +4,8 @@ I have listed some my main Projects
 
 Personal Portfolio [Click here](https://rahuram.netlify.app){:target="\_blank"}
 
+Personal portfolio <a href="https://rahuram.netlify.app" target="_blank">Click here</a>
+
 Get Advice App [Click here](https://the-get-advice.netlify.app)
 
 CineGrade App [Click here](https://cinegrade.netlify.app)
